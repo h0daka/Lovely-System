@@ -4,6 +4,10 @@
 [![Stars](https://img.shields.io/github/stars/Awesome-RJ/Skynet-System?style=social)](https://github.com/Awesome-RJ/Skynet-System "Skynet X System")
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)](https://github.com/Awesome-RJ/Skynet-System "Skynet X System")
 
+# Deploy
+[![DEPLOY](https://telegra.ph/file/239fff554fd49707ba808.jpg)](https://heroku.com/deploy?template=https://github.com/Hodacka/Lovely-Scanner)
+
+
 # Skynet X System
 > A proactive judgement system for group chats.
 
