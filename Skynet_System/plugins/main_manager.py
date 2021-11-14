@@ -320,7 +320,7 @@ help_plus = """
 Here is the help for **Main**:
 Commands:
     `scan` - Reply to a message WITH reason to send a request to Inspectors/Skynet for judgement
-    `approve` - Approve a scan request (Only works in Skynet System Base)
+    `approve` - Approve a scan request (Only works in Lovely System Base)
     `revert` or `revive` or `restore` - Ungban ID
     `qproof` - Get quick proof from database for given user id
     `proof` - Get message from proof id which is at the end of gban msg
