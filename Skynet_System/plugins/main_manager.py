@@ -132,7 +132,7 @@ async def scan(event, flags):
         if event.chat.username
         else f"t.me/c/{event.chat.id}/{event.message.id}"
     )
-    await event.reply("Connecting to Sylviorus for a cymatic scan.")
+    await event.reply("Connecting to LOVELY for a cymatic scan.")
     if req_proof and req_user:
         await replied.forward_to(Skynet_logs)
         await System.gban(
