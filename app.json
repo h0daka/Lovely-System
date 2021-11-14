@@ -89,6 +89,7 @@
       }, 
       "BOT_TOKEN": {
          "description": "Bot Token",
+         "required": false,
          "value": ""
       },
       "GBAN_MSG_LOGS": {
