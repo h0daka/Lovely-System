@@ -5,7 +5,7 @@
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)](https://github.com/Awesome-RJ/Skynet-System "Skynet X System")
 
 # Deploy
-[![DEPLOY](https://telegra.ph/file/239fff554fd49707ba808.jpg)](https://heroku.com/deploy?template=https://github.com/Hodacka/Lovely-Scanner)
+[![DEPLOY](https://telegra.ph/file/303337207e89fc3b42b9c.jpg)](https://heroku.com/deploy?template=https://github.com/Hodacka/Lovely-System)
 
 
 # Skynet X System
