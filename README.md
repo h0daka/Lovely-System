@@ -1,17 +1,11 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/441b48966e9f4b58a643d7c4cee8ba66)](https://app.codacy.com/gh/Awesome-RJ/Skynet-System?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SkynetSystem&utm_campaign=Badge_Grade_Dashboard)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Repo Size](https://img.shields.io/github/repo-size/Awesome-RJ/Skynet-System)](https://github.com/Awesome-RJ/Skynet-System "Skynet X System")
-[![Stars](https://img.shields.io/github/stars/Awesome-RJ/Skynet-System?style=social)](https://github.com/Awesome-RJ/Skynet-System "Skynet X System")
-[![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)](https://github.com/Awesome-RJ/Skynet-System "Skynet X System")
-
-# Deploy
-[![DEPLOY](https://telegra.ph/file/303337207e89fc3b42b9c.jpg)](https://heroku.com/deploy?template=https://github.com/Hodacka/Lovely-System)
 
 
-# Skynet X System
+
+
+# Lovely X System
 > A proactive judgement system for group chats.
 
-[![Skynet X System](https://telegra.ph/file/5e1498caef5ecaa21e8d3.jpg "Skynet X System")](https://github.com/Awesome-RJ/Skynet-System "Skynet X System")
+[![Lovely X System](https://telegra.ph/file/303337207e89fc3b42b9c.jpg "Lovely X System")](https://github.com/Hodacka/Lovely-System "Lovely X System")
 
 ## A Telethon Userbot to make handling spam easer
 
@@ -25,7 +19,7 @@ Based on the popular anime series "Psycho Pass", Skynet is designed to work in a
 
 ### Location
 
-Skynet can be seen around telegram judging people and chats and logging the information at [@SkynetXSystem](http://t.me/SkyneXSystem "@SkynetXSystem")
+Lovely can be seen around telegram judging people and chats and logging the information at [@SkynetXSystem](http://t.me/SkyneXSystem "@SkynetXSystem")
 The base of operations of Skynet are Beneath the NONA Tower and are only accessible by select personnel.
 
 ------------
@@ -51,11 +45,11 @@ Skynet is under active development and some future plans include
 - The use of the Skynet X System to determine latent criminals with the help of Crime Coefficients is introduced at some point between 2090 and 2100.
 - The first version of the Skynet X System was introduced between 2030 and 2049. At this point it is solely a supercomputer which was able to make precise and extensive cymatic scans, so the Employment Aptitude Exam of the Ministry of Health, Labor and Welfare would become more efficient and valid. Along with the cymatic scans, the Psycho-Pass measurement is introduced.
 
-- A replacement for the Skynet X System was proposed by the Ministry of Economy called the Panopticon, monitoring the economic and traffic activities of its citizens. As Jeremy Bentham designed Panopticon to be a prison to monitor criminals without them knowing that they're in fact being monitored, inmates would always behave as if being monitored. Its employment as a trial system to monitor traffic was both met with controversy and failure, thus Skynet X System remained.
+- A replacement for the Skynet X System was proposed by the Ministry of Economy called the Panopticon, monitoring the economic and traffic activities of its citizens. As Jeremy Bentham designed Panopticon to be a prison to monitor criminals without them knowing that they're in fact being monitored, inmates would always behave as if being monitored. Its employment as a trial system to monitor traffic was both met with controversy and failure, thus Lovely X System remained.
 
 - Based upon visual inspection, it appears that the physical structure of the Skynet X System contains 2,601 slots in total, despite having only 247 members.
 
-- The Skynet X System's Crime Coefficient is revealed to be over 300, even though it consists of only criminally asymptomatic brains. The brains contributing to this Coefficient are destroyed, lowering the number to zero.
+- The Lovely X System's Crime Coefficient is revealed to be over 300, even though it consists of only criminally asymptomatic brains. The brains contributing to this Coefficient are destroyed, lowering the number to zero.
 
 - In case of emergency and/or if the System thinks that it is in danger, it can falsify the judgement of the Dominator, in order to suppress the threat.
 
