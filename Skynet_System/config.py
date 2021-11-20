@@ -1,12 +1,14 @@
-import Skynet_System.config as Config
+from typing import Union, Optional
 
+API_ID: int = ""
+API_HASH: str = ""
+STRING_SESSION: str = ""
+Karma_logs: Union[str, int] = ""
+Karma_approved_logs: Union[str, int] = ""
+GBAN_MSG_LOGS: Optional[Union[str, int]] = ""
+BOT_TOKEN: str = ""
+ENFORCERS: int = ""
+INSPECTORS: int = ""
 
-  # REQUIRED
-    API_ID_KEY = "draj is op"
-    API_HASH_KEY = "lol dal isee "  
-    STRING_SESSION = "ssyour"
-    Skynet = ""
-    ENFORCERS = ""
-    Skynet_logs = ""
-    Skynet_approved_logs = ""
-    GBAN_MSG_LOGS = ""
+MONGO_DB_URL: str = ""
+KARMA: int = ""
