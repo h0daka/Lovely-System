@@ -178,7 +178,7 @@ async def revive(event):
     await a.edit("Revert request sent to Sylviorus. This might take 10minutes or so.")
 
 
-@System.on(system_cmd(pattern=r"Skynet logs"))
+@System.on(system_cmd(pattern=r"Lovely logs"))
 async def logs(event):
     await System.send_file(event.chat_id, "log.txt")
 
