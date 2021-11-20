@@ -57,7 +57,7 @@ async def status(event):
     time.sleep(1)
     await msg.edit("Initialising ■■■■■■")
     time.sleep(1)
-    await msg.edit("Connection Successful!")
+    await msg.edit("⚚Connection Successful⚚")
     time.sleep(2)
     sender = await event.get_sender()
     user_status = "Inspector" if sender.id in INSPECTORS else "Enforcer"
@@ -65,7 +65,7 @@ async def status(event):
     await msg.edit(on_string.format(Enforcer=user_status, name=sender.first_name))
 
 
-@System.on(system_cmd(pattern="Skynet stats"))
+@System.on(system Connectionrn="Skynet stats"))
 async def stats(event):
     msg = f"Processed {System.processed} messages since last restart."
     msg += f"\n{len(ENFORCERS)} Enforcers & {len(INSPECTORS)} Inspectors"
