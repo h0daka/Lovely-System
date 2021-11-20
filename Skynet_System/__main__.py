@@ -41,7 +41,7 @@ for load in to_load:
         print("------------------------------------")
 
 
-@System.on(system_cmd(pattern=r"lxsinfo", allow_enforcer=True))
+@System.on(system_cmd(pattern=r"LXSinfo", allow_enforcer=True))
 async def status(event):
     msg = await event.reply("Conecting to Lovely X System System Core.")
     time.sleep(1)
