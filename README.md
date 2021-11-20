@@ -19,7 +19,7 @@ Based on the popular anime series "Psycho Pass", Skynet is designed to work in a
 
 ### Location
 
-Lovely can be seen around telegram judging people and chats and logging the information at [@SkynetXSystem](http://t.me/LovelyXSystem_Scanner"@LovelyXSystem")
+Lovely can be seen around telegram judging people and chats and logging the information at [@SkynetXSystem](http://t.me/LovelyXSystem_Scanner "@LovelyXSystem")
 The base of operations of Skynet are Beneath the NONA Tower and are only accessible by select personnel.
 
 ------------
