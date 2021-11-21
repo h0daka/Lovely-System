@@ -27,7 +27,7 @@ try:
 except BaseException:
     HEROKU = False
 
-json_file = os.path.join(os.getcwd(), "Skynet_System\\elevated_users.json")
+json_file = os.path.join(os.getcwd(), "Skynet_System\elevated_users.json")
 
 
 @System.on(system_cmd(pattern=r"addenf", allow_inspectors=True))
