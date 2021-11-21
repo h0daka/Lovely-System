@@ -4,7 +4,7 @@ on_string = """
 ➛ NAME: {name}
 ➛ RANK: {Enforcer}
 ➖➖➖➖➖➖➖➖➖
-╘══「 You are an authorized user! 」
+╘══「 ✯Verified User ✓ 」
 """
 
 # Make sure not to change these too much
