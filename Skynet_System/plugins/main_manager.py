@@ -132,7 +132,7 @@ async def scan(event, flags):
         if event.chat.username
         else f"t.me/c/{event.chat.id}/{event.message.id}"
     )
-    await event.reply("Connecting to LOVELY for a cymatic scan.")
+    await event.reply("Connecting to Lovely for a cymatic scan.")
     if req_proof and req_user:
         await replied.forward_to(Skynet_logs)
         await System.gban(
@@ -175,7 +175,7 @@ async def revive(event):
     ):
         await a.edit("User is not gbanned.")
         return
-    await a.edit("Revert request sent to Sylviorus. This might take 10minutes or so.")
+    await a.edit("Revert request sent to Lovely. This might take 10minutes or so.")
 
 
 @System.on(system_cmd(pattern=r"Lovely logs"))
@@ -319,7 +319,7 @@ async def reject(event):
 help_plus = """
 Here is the help for **Main**:
 Commands:
-    `scan` - Reply to a message WITH reason to send a request to Inspectors/Skynet for judgement
+    `scan` - Reply to a message WITH reason to send a request to Inspectors/Lovely for judgement
     `approve` - Approve a scan request (Only works in Lovely System Base)
     `revert` or `revive` or `restore` - Ungban ID
     `qproof` - Get quick proof from database for given user id
