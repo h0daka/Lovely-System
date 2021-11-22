@@ -42,12 +42,12 @@ Skynet is under active development and some future plans include
 ------------
 
 ##### Trivia
-- The use of the Skynet X System to determine latent criminals with the help of Crime Coefficients is introduced at some point between 2090 and 2100.
-- The first version of the Skynet X System was introduced between 2030 and 2049. At this point it is solely a supercomputer which was able to make precise and extensive cymatic scans, so the Employment Aptitude Exam of the Ministry of Health, Labor and Welfare would become more efficient and valid. Along with the cymatic scans, the Psycho-Pass measurement is introduced.
+- The use of the Lovely X System to determine latent criminals with the help of Crime Coefficients is introduced at some point between 2090 and 2100.
+- The first version of the Lovely X System was introduced between 2030 and 2049. At this point it is solely a supercomputer which was able to make precise and extensive cymatic scans, so the Employment Aptitude Exam of the Ministry of Health, Labor and Welfare would become more efficient and valid. Along with the cymatic scans, the Psycho-Pass measurement is introduced.
 
-- A replacement for the Skynet X System was proposed by the Ministry of Economy called the Panopticon, monitoring the economic and traffic activities of its citizens. As Jeremy Bentham designed Panopticon to be a prison to monitor criminals without them knowing that they're in fact being monitored, inmates would always behave as if being monitored. Its employment as a trial system to monitor traffic was both met with controversy and failure, thus Lovely X System remained.
+- A replacement for the Lovely X System was proposed by the Ministry of Economy called the Panopticon, monitoring the economic and traffic activities of its citizens. As Jeremy Bentham designed Panopticon to be a prison to monitor criminals without them knowing that they're in fact being monitored, inmates would always behave as if being monitored. Its employment as a trial system to monitor traffic was both met with controversy and failure, thus Lovely X System remained.
 
-- Based upon visual inspection, it appears that the physical structure of the Skynet X System contains 2,601 slots in total, despite having only 247 members.
+- Based upon visual inspection, it appears that the physical structure of the Lovely X System contains 2,601 slots in total, despite having only 247 members.
 
 - The Lovely X System's Crime Coefficient is revealed to be over 300, even though it consists of only criminally asymptomatic brains. The brains contributing to this Coefficient are destroyed, lowering the number to zero.
 
@@ -66,12 +66,12 @@ Skynet is under active development and some future plans include
 - Cuz I'm a noob.
 
 >Why not getting list of all module instead of manually putting module in to_load?
-- I don't want people from uniborg or ftg or other userbots to put their plugins (those weird animation ones or useless ones) in Skynet X System
+- I don't want people from uniborg or ftg or other userbots to put their plugins (those weird animation ones or useless ones) in Lovely X System
 
 #### Credits
 
 - [Rajkumar](https://github.com/Awesome-RJ/Skynet-System) : Dev
-- [DragSama](https://github.com/sitischu) : Base
+- [Lovely Boy](https://github.com/Hodacka) : Dev
 - [AnimeKaizoku](https://github.com/AnimeKaizoku) : Base
 - [DRaj](https://github.com/draj48) : DEV
 - [Simon](https://github.com/sitischu) for the ID image! : DEV
