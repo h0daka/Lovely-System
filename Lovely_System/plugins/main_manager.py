@@ -1,6 +1,6 @@
 import re
 
-from Lovely_System import Lovely_logs, ENFORCERS, Skynet, INSPECTORS
+from Lovely_System import Lovely_logs, ENFORCERS, Lovely, INSPECTORS
 from Lovely_System.strings import (
     scan_request_string,
     reject_string,
@@ -86,7 +86,7 @@ async def scan(event, flags):
         if message.from_id.user_id in ENFORCERS:
             return
         msg = await System.send_message(
-            Skynet_logs,
+            Lovely_logs,
             scan_request_string.format(
                 enforcer=executor,
                 spammer=message.from_id.user_id,
@@ -125,7 +125,7 @@ async def scan(event, flags):
     else:
         approve = False
     if replied.media:
-        await replied.forward_to(Skynet_logs)
+        await replied.forward_to(Lovely_logs)
     executor = f"[{executer.first_name}](tg://user?id={executer.id})"
     chat = (
         f"t.me/{event.chat.username}/{event.message.id}"
@@ -134,13 +134,13 @@ async def scan(event, flags):
     )
     await event.reply("Connecting to LOVELY for a cymatic scan.")
     if req_proof and req_user:
-        await replied.forward_to(Skynet_logs)
+        await replied.forward_to(Lovely_logs)
         await System.gban(
             executer.id, req_user, reason, msg.id, executer, message=replied.text
         )
     if not approve:
         msg = await System.send_message(
-            Skynet_logs,
+            Lovely_logs,
             scan_request_string.format(
                 enforcer=executor,
                 spammer=sender,
