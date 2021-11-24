@@ -26,8 +26,8 @@ class LovelyClient(TelegramClient):
     def __init__(self, *args, **kwargs):
         """Declare stuff."""
         self.gban_logs = GBAN_MSG_LOGS
-        self.approved_logs = Skynet_approved_logs
-        self.log = Skynet_logs
+        self.approved_logs = Lovely_approved_logs
+        self.log = Lovely_logs
         self.bot = None
         self.processing = 0
         self.processed = 0
