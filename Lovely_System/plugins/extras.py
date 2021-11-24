@@ -18,7 +18,7 @@ from datetime import datetime
 from urllib.parse import urlparse, urlunparse
 
 try:
-    from Skynet_System import HEROKU_API_KEY, HEROKU_APP_NAME
+    from Lovely_System import HEROKU_API_KEY, HEROKU_APP_NAME
 
     heroku_conn = heroku3.from_key(HEROKU_API_KEY)
     app = heroku_conn.app(HEROKU_APP_NAME)
@@ -136,14 +136,14 @@ async def join(event) -> None:
         await System(ImportChatInviteRequest(private.group(5)))
         await System.send_message(event.chat_id, "Joined chat!")
         await System.send_message(
-            Skynet_logs,
+            Lovely_logs,
             f"{(await event.get_sender()).first_name} made Skynet join {private.group(5)}",
         )
     else:
         await System(JoinChannelRequest(link))
         await System.send_message(event.chat_id, "Joined chat!")
         await System.send_message(
-            Skynet_logs,
+            Lovely_logs,
             f"{(await event.get_sender()).first_name} made Skynet join {link}",
         )
 
