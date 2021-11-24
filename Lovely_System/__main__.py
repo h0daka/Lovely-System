@@ -16,7 +16,7 @@ logging.basicConfig(
     format="[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s", level=logging.WARNING
 )
 
-from Skynet_System.plugins import to_load
+from Lovely_System.plugins import to_load
 
 HELP = {}
 IMPORTED = {}
