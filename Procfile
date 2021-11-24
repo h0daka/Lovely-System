@@ -1,1 +1,1 @@
-worker: python3 -m Skynet_System
+worker: python3 -m Lovely_System
