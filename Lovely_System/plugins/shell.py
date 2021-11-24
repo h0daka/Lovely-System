@@ -40,5 +40,5 @@ __plugin_name__ = "shell"
 help_plus = """
 Cmd - sh or shell or term or terminal
 Example - `?sh echo owo`
-Output - ow
+Output - owo
 """
