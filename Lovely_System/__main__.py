@@ -4,7 +4,7 @@ from Lovely_System import (
     make_collections,
     INSPECTORS,
     ENFORCERS,
-    Skynet_logs,
+    Lovely_logs,
 )
 from Lovely_System.strings import on_string
 import logging
