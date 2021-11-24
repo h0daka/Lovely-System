@@ -120,7 +120,7 @@ def system_cmd(
         args["pattern"] = re.compile(r"[\?\.!/]" + pattern)
     else:
         args["pattern"] = re.compile(r"[\?\.!]" + pattern)
-    if allow_Skynet and allow_enforcer:
+    if allow_Lovely and allow_enforcer:
         args["from_users"] = ENFORCERS
     elif allow_inspectors and allow_Skynet:
         args["from_users"] = INSPECTORS
