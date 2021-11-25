@@ -11,7 +11,7 @@
 
 ## Purpose and schematics
 
-Based on the popular anime series "Psycho Pass", Skynet is designed to work in a judgement and scan system where groups can request Cymatic scans for spammers, this then connects to the Skynet network and sends the data to Skynet for judgement, upon the approval of which the user is judged by the dominator.
+Based on the popular anime series "Psycho Pass", Lovely is designed to work in a judgement and scan system where groups can request Cymatic scans for spammers, this then connects to the Skynet network and sends the data to Lovely for judgement, upon the approval of which the user is judged by the dominator.
 
 > To create and manage all Dominators and scanner systems in-country and to monitor the behavior of MWPSB personnel
 
