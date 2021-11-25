@@ -1,10 +1,17 @@
 on_string = """
-╒═══「 Lovely X System • Server Core 」
-➖➖➖➖➖➖➖➖➖
-➛ NAME: {name}
-➛ RANK: {Enforcer}
-➖➖➖➖➖➖➖➖➖
-╘══「 You are an authorized user! 」
+══════✭✭✭✭✭═══════
+
+CONNECTED TO LOVELY SYSTEM 
+
+══════✭✭✭✭✭═══════
+
+     「✯ USER INFO ✯」
+
+✯ Name -   {name}
+
+✯ Rank  -  {Enforcer} 
+
+✯Verified User ✓
 """
 
 # Make sure not to change these too much
