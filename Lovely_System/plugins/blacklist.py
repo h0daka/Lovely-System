@@ -83,7 +83,7 @@ async def auto_gban_request(event):
     System.processing += 1
     if event.from_id.user_id in ENFORCERS or event.from_id.user_id in Skynet:
         return
-    if event.chat_id == Skynet_logs:
+    if event.chat_id == Lovely_logs:
         return
     text = event.text
     words = await db.get_blacklist()
