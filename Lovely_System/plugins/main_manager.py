@@ -248,7 +248,7 @@ async def approve(event, flags):
             else:
                 id1 = list[0]
                 id2 = re.findall(r"(\d+)", replied.text)[1]
-            if id1 in ENFORCERS or Skynet:
+            if id1 in ENFORCERS or Lovely:
                 enforcer = id1
                 scam = id2
             else:
