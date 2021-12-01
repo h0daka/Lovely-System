@@ -42,7 +42,7 @@ async def make_proof(user: Union[str, int]):
 
 @System.bot.on(events.NewMessage(pattern="[/!]start"))
 async def sup(event):
-    await event.reply("sup?")
+    await event.reply("Hey, I am Lovely System, [Join Support](buttonurl://https://t.me/LovelyXSystem_Support) [Join Update](buttonurl://https://t.me/Lovely_X_System)")
 
 @System.bot.on(events.NewMessage(pattern="[/!]alertmode"))
 async def setalertmode(event):
