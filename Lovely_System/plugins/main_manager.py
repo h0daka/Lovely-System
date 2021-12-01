@@ -123,7 +123,7 @@ async def scan(event, flags):
     if flags.f and executer.id in INSPECTORS:
         approve = True
     else:
-        approve = True
+        approve = False
     if replied.media:
         await replied.forward_to(Lovely_logs)
     executor = f"[{executer.first_name}](tg://user?id={executer.id})"
