@@ -102,7 +102,7 @@ async def scan(event, flags):
         if replied.fwd_from:
             reply = replied.fwd_from
             target = reply.from_id.user_id
-            if reply.from_id.user_id in ENFORCERS or reply.from_id.user_id in Skynet:
+            if reply.from_id.user_id in ENFORCERS or reply.from_id.user_id in Lovely:
                 return
             if not reply.from_id.user_id:
                 await event.reply("Cannot get user ID.")
@@ -123,7 +123,7 @@ async def scan(event, flags):
     if flags.f and executer.id in INSPECTORS:
         approve = True
     else:
-        approve = False
+        approve = True
     if replied.media:
         await replied.forward_to(Lovely_logs)
     executor = f"[{executer.first_name}](tg://user?id={executer.id})"
