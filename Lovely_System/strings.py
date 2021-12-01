@@ -7,11 +7,11 @@ CONNECTED TO LOVELY SYSTEM
 
      「✯ USER INFO ✯」
 
-✯ Name -   {name}
+✯ ➳ᴹᴿ᭄ -   {name}
 
-✯ Rank  -  {Enforcer} 
+✯ ࿓ᴿᴬᴺᴷ ᭄  -  {Enforcer} 
 
-✯Verified User ✓
+✯ 『ᴠɪᴘ ᭄
 """
 
 # Make sure not to change these too much
