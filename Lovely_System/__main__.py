@@ -57,7 +57,7 @@ async def status(event):
     time.sleep(1)
     await msg.edit("Initialising ■■■■■■")
     time.sleep(1)
-    await msg.edit("⚚Connection Successful⚚")
+    await msg.edit("✯Connection Successful✯")
     time.sleep(2)
     sender = await event.get_sender()
     user_status = "Inspector" if sender.id in INSPECTORS else "Enforcer"
