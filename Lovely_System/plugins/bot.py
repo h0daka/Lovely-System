@@ -42,9 +42,9 @@ async def make_proof(user: Union[str, int]):
 
 @System.bot.on(events.NewMessage(pattern="[/!]start"))
 async def sup(event):
-    await event.reply('♡ 𝙻𝚘𝚟𝚎𝚕𝚢 𝚂𝚢𝚜𝚝𝚎𝚖 𝙸𝚜 𝙾𝚗𝚕𝚒𝚗𝚎\n\n♡ 𝚂𝚒𝚗𝚌𝚎: 5s', file= 'https://telegra.ph/file/bee2240bab19a22b493e9.mp4', buttons=[Button.url('✯Sᴜᴘᴘᴏʀᴛ✯', 'https://t.me/LovelyXSystem_Support'), Button.url('✯Lᴏɢs✯', 'https://t.me/LovelyXSystemLogs'),
+    await event.reply("✯𝙻𝚘𝚟𝚎𝚕𝚢 𝚂𝚢𝚜𝚝𝚎𝚖 𝙸𝚜 𝙾𝚗𝚕𝚒𝚗𝚎✯"))
 
-Button.url('✯Sᴄᴀɴɴᴇʀ✯', 't.me/LovelyXSystem_Scanner')])
+
 
 @System.bot.on(events.NewMessage(pattern="[/!]alertmode"))
 async def setalertmode(event):
