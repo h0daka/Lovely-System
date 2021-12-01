@@ -122,7 +122,7 @@ async def auto_wlc_gban(event):
             if re.search(pattern, text, flags=re.IGNORECASE):
                 c = words.index(word)
                 logmsg = f"""$AUTOSCAN\n**Scanned user:** [{user.id}](tg://user?id={user.id})\n**Reason:** 1x{c}\n**User joined and blacklisted string in name**\n**Matched String:** {word}\n"""
-                await System.send_message(Skynet_logs, logmsg)
+                await System.send_message(Lovely_logs, logmsg)
                 System.processed += 1
                 System.processing -= 1
                 return
