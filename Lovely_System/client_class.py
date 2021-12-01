@@ -107,12 +107,12 @@ class LovelyClient(TelegramClient):
             )
         if bot:
             await self.send_message(
-                Skynet_approved_logs,
+                Lovely_approved_logs,
                 bot_gban_string.format(enforcer=enforcer, scam=target, reason=reason),
             )
         else:
             await self.send_message(
-                Skynet_approved_logs,
+                Lovely_approved_logs,
                 scan_approved_string.format(
                     enforcer=enforcer, scam=target, reason=reason, proof_id=msg_id
                 ),
