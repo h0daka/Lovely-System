@@ -33,7 +33,7 @@ You can check help using -
 
 #### Development and planning
 
-Skynet is under active development and some future plans include
+Lovely is under active development and some future plans include
 - Gif responses
 - Better and detailed scanning
 - Improved logging, access and replies strings
