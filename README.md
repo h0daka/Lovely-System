@@ -70,5 +70,5 @@ Lovely is under active development and some future plans include
 
 #### Credits
 
-- [Lovely Boy](https://github.com/Hodacka) : Dev
-
+- [Lovely Prince](https://github.com/DarlingPrince) : Dev
+- [Kittu](https://t.me/Kittu_the_criminalll) : Dev
