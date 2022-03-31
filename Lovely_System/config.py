@@ -10,4 +10,4 @@ BOT_TOKEN: str = "123456:shsiajskzkxhxj"
 ENFORCERS: int = 123488
 INSPECTORS: int = 1993883
 MONGO_DB_URL: str = "1993838:sjsh"
-# Creadits gose to https://github.com/Hodacka
+# Creadits gose to https://t.me/Kittu_the_criminalll
